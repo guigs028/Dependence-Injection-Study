@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\",
+  "WorkspaceRootPath": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dev\\desktop\\estudo\\exercicio injecao de dependencia\\consoleapp1\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\guigs z\\desktop\\projetos\\c#\\exercicio injecao de dependencia\\consoleapp1\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dev\\desktop\\estudo\\exercicio injecao de dependencia\\consoleapp1\\interface\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\guigs z\\desktop\\projetos\\c#\\exercicio injecao de dependencia\\consoleapp1\\interface\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interface\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dev\\desktop\\estudo\\exercicio injecao de dependencia\\consoleapp1\\payments\\bankslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\guigs z\\desktop\\projetos\\c#\\exercicio injecao de dependencia\\consoleapp1\\payments\\bankslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\payments\\bankslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dev\\desktop\\estudo\\exercicio injecao de dependencia\\consoleapp1\\payments\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\guigs z\\desktop\\projetos\\c#\\exercicio injecao de dependencia\\consoleapp1\\payments\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\payments\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dev\\desktop\\estudo\\exercicio injecao de dependencia\\consoleapp1\\payments\\pix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\guigs z\\desktop\\projetos\\c#\\exercicio injecao de dependencia\\consoleapp1\\payments\\pix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\payments\\pix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dev\\desktop\\estudo\\exercicio injecao de dependencia\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\guigs z\\desktop\\projetos\\c#\\exercicio injecao de dependencia\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56A41039-EE22-4403-BB97-EF6288C52687}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,78 +40,79 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Order\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Order\\Order.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Order\\Order.cs",
-              "ToolTip": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Order\\Order.cs",
+              "ToolTip": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Order\\Order.cs",
               "RelativeToolTip": "ConsoleApp1\\Order\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwBUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T14:00:26.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BankSlip.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\BankSlip.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Payments\\BankSlip.cs",
-              "ToolTip": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\BankSlip.cs",
-              "RelativeToolTip": "ConsoleApp1\\Payments\\BankSlip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:58:39.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreditCard.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\CreditCard.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Payments\\CreditCard.cs",
-              "ToolTip": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\CreditCard.cs",
-              "RelativeToolTip": "ConsoleApp1\\Payments\\CreditCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:55:44.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pix.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\Pix.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Payments\\Pix.cs",
-              "ToolTip": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\Pix.cs",
-              "RelativeToolTip": "ConsoleApp1\\Payments\\Pix.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:54:44.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IPayment.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Interface\\IPayment.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IPayment.cs",
-              "ToolTip": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Interface\\IPayment.cs",
-              "RelativeToolTip": "ConsoleApp1\\Interface\\IPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:53:27.196Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\dev\\Desktop\\Estudo\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T13:38:06.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pix.cs",
+              "DocumentMoniker": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\Pix.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Payments\\Pix.cs",
+              "ToolTip": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\Pix.cs",
+              "RelativeToolTip": "ConsoleApp1\\Payments\\Pix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:54:44.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\CreditCard.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Payments\\CreditCard.cs",
+              "ToolTip": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\CreditCard.cs",
+              "RelativeToolTip": "ConsoleApp1\\Payments\\CreditCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:55:44.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankSlip.cs",
+              "DocumentMoniker": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\BankSlip.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Payments\\BankSlip.cs",
+              "ToolTip": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Payments\\BankSlip.cs",
+              "RelativeToolTip": "ConsoleApp1\\Payments\\BankSlip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:58:39.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Interface\\IPayment.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IPayment.cs",
+              "ToolTip": "C:\\Users\\Guigs z\\Desktop\\Projetos\\C#\\Exercicio Injecao de Dependencia\\ConsoleApp1\\Interface\\IPayment.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interface\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:53:27.196Z",
               "EditorCaption": ""
             }
           ]
